@@ -1,5 +1,6 @@
+# stock-trading-ml
 **/*.idea/
-creds.json
+*.json
 .vscode
 *.csv
 *.h5
@@ -108,7 +109,3 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-
-# stock-trading-ml
-.csv
-.h5
