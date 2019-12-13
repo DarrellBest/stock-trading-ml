@@ -39,6 +39,7 @@ from time import localtime, strftime
 from colorlog import ColoredFormatter
 from configparser import ConfigParser
 
+
 @Singleton
 class PyLog:
     """
